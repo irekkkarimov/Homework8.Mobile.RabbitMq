@@ -1,0 +1,6 @@
+@Homework8.Mobile.RabbitMq_HostAddress = http://localhost:5182
+
+GET {{Homework8.Mobile.RabbitMq_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
